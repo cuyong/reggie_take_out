@@ -2,7 +2,6 @@ package com.wjc.reggie_take_out.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.sun.deploy.uitoolkit.ui.DialogHook;
 import com.wjc.reggie_take_out.common.CustomException;
 import com.wjc.reggie_take_out.dto.DishDto;
 import com.wjc.reggie_take_out.entity.Dish;
